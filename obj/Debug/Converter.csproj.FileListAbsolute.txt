@@ -1,0 +1,10 @@
+C:\Users\unit\source\repos\Converter\Converter\bin\Debug\Converter.exe.config
+C:\Users\unit\source\repos\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\unit\source\repos\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\unit\source\repos\Converter\Converter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\unit\source\repos\Converter\Converter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\unit\source\repos\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+C:\Users\unit\source\repos\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\unit\source\repos\Converter\Converter\obj\Debug\Converter.csproj.CopyComplete
+C:\Users\unit\source\repos\Converter\Converter\obj\Debug\Converter.exe
+C:\Users\unit\source\repos\Converter\Converter\obj\Debug\Converter.pdb
